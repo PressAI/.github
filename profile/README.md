@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-### Welcome to Press AI
-
 # Welcome to Press AI
 
 ![Press AI Logo](https://press.ai/wp-content/uploads/Press-AI-Logo-Official.svg)
